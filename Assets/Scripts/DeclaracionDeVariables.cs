@@ -16,6 +16,9 @@ public class DeclaracionDeVariables : MonoBehaviour
         kilosVendidos = 170f;
         nombreAlumno = "santiago";
         estaAprobado = true;
+
+
+
         Debug.Log(cantidadAlumnos);
         Debug.Log(kilosVendidos);
         Debug.Log(nombreAlumno);
