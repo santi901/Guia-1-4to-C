@@ -8,16 +8,16 @@ public class DatosDelUsuario : MonoBehaviour
     public int Edad;
     public float Estatura;
     public bool EsDonante;
-    
+
 
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Mi Nombre es " + NombreDeUsuario + " tengo " + Edad + " Años" + 
-            ", mido " + Estatura + " y " + EsDonante + " no soy donante");
+        Debug.Log("Mi Nombre es " + NombreDeUsuario + " tengo " + Edad +
+            ", mido " + Estatura + " metros y es " + EsDonante + " que soy donante de órganos.");
     }
 
-    // Update is called once per frame
+    // Update is called once per framex1|
     void Update()
     {
         
